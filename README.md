@@ -2,3 +2,5 @@
 初めてのGitHub
 初コミット
 feature-Aの追加
+Fix-B
+
